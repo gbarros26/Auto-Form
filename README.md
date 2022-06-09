@@ -80,17 +80,15 @@
   2. Abra o terminal de comando 
   > Windows + R e digite cmd
   
-  3. Crie um diretorio
-  > mkdir nome-do-diretorio
+ 
+  3. Instale o react
+  > create-react-app nome-da-projeto
   
-  4. Instale o react
-  > create-react-app nome-da-pasta
-  
-  5. Acesse a sua pasta 
+  4. Acesse a sua pasta 
   > cd nome-da-pasta
   
-  6. Clone o repositorio na pasta 
+  5. Clone o repositorio na pasta 
   > https://github.com/gbarros26/AutoForm
   
-  7. Execute a aplicação
+  6. Execute a aplicação
   > npm start
