@@ -77,18 +77,17 @@
   1. Instale o Node.js
   > https://nodejs.org/en/
   
+  5. Clone o repositorio do git
+  > git clone https://github.com/gbarros26/AutoForm
+  
   2. Abra o terminal de comando 
   > Windows + R e digite cmd
-  
- 
-  3. Instale o react
-  > create-react-app nome-da-projeto
   
   4. Acesse a sua pasta 
   > cd nome-da-pasta
   
-  5. Clone o repositorio na pasta 
-  > https://github.com/gbarros26/AutoForm
+   3. Instale as dependencias do react
+  > npm i
   
   6. Execute a aplicação
   > npm start
