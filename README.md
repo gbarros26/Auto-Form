@@ -35,7 +35,7 @@
 
 <table> 
  <tr>
-  <td>Java-script 
+  <td> [Java-script] 
     <td>React 
       <td>Node.js 
         <td>CSS 
@@ -61,8 +61,8 @@
 #### O CRUD foi implementado
 
 ⚠️ Funcionalides em desenvolvimento ⚠️
-- Dashboard 
-- Login(com autenticação)
+[] Dashboard 
+[]Login(com autenticação)
 
  
 
@@ -77,6 +77,7 @@
  API criada em Phyton e Flask no padrão MVC, o POSTGRESQL foi o sistema gerenciador de banco de dados escolhido para armazenar os dados relacionados às perguntas, respostas, atributos, dimensões e notas da nossa aplicação. 
 
  # Instalação e configuração
+  
   
   1. Instale o Node.js
   > https://nodejs.org/en/
@@ -95,3 +96,5 @@
   
   6. Execute a aplicação
   > npm start
+ 
+  
