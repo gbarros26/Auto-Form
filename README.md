@@ -25,7 +25,7 @@
 
  
 
-# Tecnologia utilizadas
+# Tecnologias utilizadas
 
 > Front-end 
 
