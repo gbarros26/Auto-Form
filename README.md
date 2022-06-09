@@ -10,7 +10,11 @@
 
  Formulários de pesquisas para empresas com o intuito de identificar o grau de maturidade tecnológica de uma startup, esses formulários possuem dimensões e atributos, de forma exemplificada, as dimensões possuem atributos, cada atributo possui perguntas, e essas perguntas possuem uma nota que é computada no momento que o usuário responde o questionário, ou seja, os atributos possuem notas que ao serem respondidos por completo, geram uma média da dimensão, após a geração das notas/médias é criado um relatório com as informações mais relevantes da empresa, que foram determinadas de acordo com cada resposta dada. 
 
- 
+* [x] Criar formularios
+* [x] Criar editar dimensões
+* [x] Criar e editar atributos
+* [x] Criar e editar perguntas
+* [x] Adicionar notas a startup
 
 # Desenvolvedores 
 
@@ -56,7 +60,7 @@
  
 #### O CRUD foi implementado
 
-⚠️ Funcionalides em desenvolvimento:
+⚠️ Funcionalides em desenvolvimento ⚠️
 - Dashboard 
 - Login(com autenticação)
 
