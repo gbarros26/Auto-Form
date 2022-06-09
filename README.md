@@ -35,7 +35,7 @@
 
 <table> 
  <tr>
-  <td> [Java-script] 
+  <td> Java-script 
     <td>React 
       <td>Node.js 
         <td>CSS 
