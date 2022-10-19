@@ -80,7 +80,7 @@
   
   
   1. Instale o Node.js
-  > https://nodejs.org/en/
+  ```bash https://nodejs.org/en/ ```
   
   5. Clone o repositorio do git
   > git clone https://github.com/gbarros26/AutoForm
