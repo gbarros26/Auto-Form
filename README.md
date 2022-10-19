@@ -83,18 +83,18 @@
   ``` https://nodejs.org/en/ ```
   
   5. Clone o repositorio do git
-  > git clone https://github.com/gbarros26/AutoForm
+  ``` git clone https://github.com/gbarros26/AutoForm ``
   
   2. Abra o terminal de comando 
-  > Windows + R e digite cmd
+  ``` Windows + R e digite cmd ```
   
   4. Acesse a sua pasta 
-  > cd nome-da-pasta
+  ``` cd nome-da-pasta ```
   
    3. Instale as dependencias do react
-  > npm i
+  ``` npm i ```
   
   6. Execute a aplicação
-  > npm start
+  ``` npm start ```
  
   
